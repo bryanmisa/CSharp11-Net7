@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cs11dotnet7\\Chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj",
+      "projectUniqueName": "C:\\Users\\bryan\\Documents\\GitHub\\CSharp11-Net7\\Chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj",
       "projectName": "AboutMyEnvironment",
-      "projectPath": "C:\\cs11dotnet7\\Chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj",
+      "projectPath": "C:\\Users\\bryan\\Documents\\GitHub\\CSharp11-Net7\\Chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj",
       "packagesPath": "C:\\Users\\bryan\\.nuget\\packages\\",
-      "outputPath": "C:\\cs11dotnet7\\Chapter01\\AboutMyEnvironment\\obj\\",
+      "outputPath": "C:\\Users\\bryan\\Documents\\GitHub\\CSharp11-Net7\\Chapter01\\AboutMyEnvironment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bryan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NSWBr9QaZgXg2LgTEo6c3KZz+eRLpwjs733Ss0ap2tSyrhTc2p1/N/mc3p7cTNowmfNcPhr3BY68J7Hhi4HPKQ==",
+  "dgSpecHash": "vlp0bwda/6AZR4rdhcVFj+cB5EWdvoD2w+uZx4UUeQSf6QE8y3mVMx2uaOYl8BAEw89qCTQ8Aa41PSWlAJdYnQ==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\Chapter01\\HelloCS\\HelloCS.csproj",
+  "projectFilePath": "C:\\Users\\bryan\\Documents\\GitHub\\CSharp11-Net7\\Chapter01\\HelloCS\\HelloCS.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

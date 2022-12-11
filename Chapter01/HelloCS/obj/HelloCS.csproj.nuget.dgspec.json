@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cs11dotnet7\\Chapter01\\HelloCS\\HelloCS.csproj": {}
+    "C:\\Users\\bryan\\Documents\\GitHub\\CSharp11-Net7\\Chapter01\\HelloCS\\HelloCS.csproj": {}
   },
   "projects": {
-    "C:\\cs11dotnet7\\Chapter01\\HelloCS\\HelloCS.csproj": {
+    "C:\\Users\\bryan\\Documents\\GitHub\\CSharp11-Net7\\Chapter01\\HelloCS\\HelloCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cs11dotnet7\\Chapter01\\HelloCS\\HelloCS.csproj",
+        "projectUniqueName": "C:\\Users\\bryan\\Documents\\GitHub\\CSharp11-Net7\\Chapter01\\HelloCS\\HelloCS.csproj",
         "projectName": "HelloCS",
-        "projectPath": "C:\\cs11dotnet7\\Chapter01\\HelloCS\\HelloCS.csproj",
+        "projectPath": "C:\\Users\\bryan\\Documents\\GitHub\\CSharp11-Net7\\Chapter01\\HelloCS\\HelloCS.csproj",
         "packagesPath": "C:\\Users\\bryan\\.nuget\\packages\\",
-        "outputPath": "C:\\cs11dotnet7\\Chapter01\\HelloCS\\obj\\",
+        "outputPath": "C:\\Users\\bryan\\Documents\\GitHub\\CSharp11-Net7\\Chapter01\\HelloCS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bryan\\AppData\\Roaming\\NuGet\\NuGet.Config",

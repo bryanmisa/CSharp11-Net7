@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wIYtVkVt7oXZg+od4mMHTeup1SNRKeE+cPQzd3/8oqTfEV8d4KmQwp08vCBjjwMoCm/cApCW0vWbRqBAKZToUg==",
+  "dgSpecHash": "lO97cDf1Wwp5MvcaFOLj2T4PGjFEWFDxscoKhmQYOCcE5viAIIqVu+JeTaWS/lpn6vTHpTFdqCNCDYugq41vnw==",
   "success": true,
-  "projectFilePath": "C:\\cs11dotnet7\\Chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj",
+  "projectFilePath": "C:\\Users\\bryan\\Documents\\GitHub\\CSharp11-Net7\\Chapter01\\AboutMyEnvironment\\AboutMyEnvironment.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

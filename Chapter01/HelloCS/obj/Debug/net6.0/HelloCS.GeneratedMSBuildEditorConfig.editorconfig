@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HelloCS
-build_property.ProjectDir = C:\GitHub\CSharp11-Net7\Chapter01\HelloCS\
+build_property.ProjectDir = C:\Users\bryan\Documents\GitHub\CSharp11-Net7\Chapter01\HelloCS\
